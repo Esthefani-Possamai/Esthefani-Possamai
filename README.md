@@ -23,6 +23,6 @@
  
 <div> 
  	<a href="https://www.twitch.tv/esthef__" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "esthefani_possamai@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto: esthefani_possamai@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/esth%C3%A9fani-possamai-41b4981a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIDL8KCwgTcuUaogq7jl9sw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
