@@ -8,6 +8,7 @@
 🪴 <i>Conciliando os aprendizados em desenvolvimento web, banco de dados e as disciplinas da graduação.</i>
 <br />
 <br />
+<br />
 
 <div align="center">
   <a href="https://github.com/Esthefani-Possamai">
