@@ -8,7 +8,7 @@
 🪴 <em>Conciliando os aprendizados em desenvolvimento web, banco de dados e as disciplinas da graduação.</em>
 <br><br>
 
-<div align="center">
+<div>
   <a href="https://github.com/Esthefani-Possamai">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=7&theme=nord"/>
