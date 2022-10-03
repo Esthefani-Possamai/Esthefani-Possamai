@@ -5,7 +5,7 @@
 <!--Para centralizar: &center=true&vCenter=true&width=1000&-->
 <div>
 👩‍💻 <em>Acadêmica de Ciência da Computação; </em></div>
-🪴 <em>Conciliando os aprendizados em desenvolvimento web, banco de dados e as disciplinas da graduação.</em>
+🪴 <em>Conciliando os aprendizados em desenvolvimento web front-end e as disciplinas da graduação.</em>
 <br><br>
 
 <div align="center">
