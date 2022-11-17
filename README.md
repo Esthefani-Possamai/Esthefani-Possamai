@@ -25,10 +25,6 @@
   <img align="center" alt="Esthef-Figma" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   
   </div>
-  <br>
-<div align="center">
-  <img align="center" alt="Esthef-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/762488898597158925/994713965206720622/3642ce40aab3f6914126656bca1db77d5534ce41v2_hq-removebg-preview.png">
-</div>
   
   ##
  
