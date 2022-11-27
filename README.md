@@ -1,7 +1,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&size=30&&color=ADDFFF88&lines=Ol%C3%A1%2C+eu+sou+a+Esth%C3%A9fani!+;Hello%2C+I'm+Esth%C3%A9fani!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=200&size=30&duration=6000&pause=1000&color=5C7087&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Esth%C3%A9fani!;Hello%2C+I'm+Esth%C3%A9fani!)](https://git.io/typing-svg)
 <!--Para centralizar: &center=true&vCenter=true&width=1000&-->
 <div>
 👩‍💻 <em>Acadêmica de Ciência da Computação; </em></div>
@@ -10,8 +10,8 @@
 
  <div align="center">
   <a href="https://github.com/Esthefani-Possamai">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=7&theme=nord"/>
 </div> 
   
 <div align="center" style="display: inline_block"><br>
