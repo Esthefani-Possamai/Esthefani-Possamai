@@ -2,17 +2,17 @@
 <div>
  
  <br>
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=200&size=30&duration=6000&pause=1000&color=5C7087&width=435&lines=Ol%C3%A1%2C+eu+sou+a+Esth%C3%A9fani!;Hello%2C+I'm+Esth%C3%A9fani!)](https://git.io/typing-svg)
- <!--Para centralizar: &center=true&vCenter=true&width=1000&-->
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=25&duration=7000&pause=1000&color=9A76B9&center=true&vCenter=true&width=1000&lines=Hello%2C+I%60m+Esth%C3%A9fani!)](https://git.io/typing-svg)
 
   <div align="center">
    <a href="https://github.com/Esthefani-Possamai">
-   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=6&theme=nord"/>
+   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=6&theme=material-palenight"/>
  </div> 
 
  <div style="display: inline_block" align="center"><br>
+  
    <h4>I develop with</h4>
    <img align="center" alt="Esthef-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
    <img align="center" alt="Esthef-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
