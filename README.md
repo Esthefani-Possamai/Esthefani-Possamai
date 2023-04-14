@@ -21,8 +21,6 @@
    <img align="center" alt="Esthef-React" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
    <img align="center" alt="Esthef-C" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
    <img align="center" alt="Esthef-SQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <br>
-  <h4>and I have the support of</h4>
    <img align="center" alt="Esthef-GIT" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
    <img align="center" alt="Esthef-Figma" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
    <img align="center" alt="Esthef-Figma" height="45" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
