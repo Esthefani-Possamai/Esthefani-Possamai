@@ -6,9 +6,8 @@
 <br/>
 <div>
  
- [![](https://vbr.wocr.tk/badge?page_id=Esthefani-Possamai-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+ [![](https://vbr.wocr.tk/badge?page_id=Esthefani-Possamai-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/Esthefani-Possamai)
  <a  href = "mailto: esthefani_possamai@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/esthefanipsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/esth%C3%A9fani-possamai-41b4981a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIDL8KCwgTcuUaogq7jl9sw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
