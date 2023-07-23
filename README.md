@@ -1,37 +1,45 @@
+ # Hello! I’m Esthéfani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+🔭 I currently work as a front-end developer. <br/>
+🌱 I'm currently learning Angular, unit testing and mobile development. <br/>
+💻 Computer Science Student at UNESC.
+<br/>
 <div>
  
- <br>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=25&duration=7000&pause=1000&color=9A76B9&center=true&vCenter=true&width=1000&lines=Hello%2C+I%60m+Esth%C3%A9fani!)](https://git.io/typing-svg)
-
-  <div align="center">
-   <a href="https://github.com/Esthefani-Possamai">
-   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Esthefani-Possamai&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Esthefani-Possamai&layout=compact&langs_count=6&theme=material-palenight"/>
- </div> 
-
- <div style={display="inline_block", align="center"}><br>
-   <img align="center" alt="Esthef-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
-   <img align="center" alt="Esthef-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-   <img align="center" alt="Esthef-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Esthef-TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
-   <img align="center" alt="Esthef-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-   <img  align="center" alt="Esthef-MUI" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
-   <img align="center" alt="Esthef-Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   <img align="center" alt="Esthef-Canva" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img align="center" alt="Esthef-GIT" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
-          
-
-  </div>
-  
-  ##
- 
-<div align="center">
-   <br>
-  <a href = "mailto: esthefani_possamai@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ [![](https://vbr.wocr.tk/badge?page_id=Esthefani-Possamai-visitor-badge-reloaded&color=779BE7&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff)](https://github.com/Nathan13888/VisitorBadgeReloaded)
+ <a  href = "mailto: esthefani_possamai@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/esthefanipsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/esth%C3%A9fani-possamai-41b4981a3?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIDL8KCwgTcuUaogq7jl9sw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-   
-   ![Snake animation](https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/output/github-contribution-grid-snake.svg)
+
+#### Development technologies 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,materialui,styledcomponents,html,css,java,mysql&theme=dark" />
+</div>
+
+#### Design and creativity
+<div align="left" display:"flex">
+  <img  width="45" heigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" />   
+  <img width="45" heigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img src="https://skillicons.dev/icons?i=figma,&theme=dark" />      
+</div>
+
+#### Management 
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,&theme=dark" />
+</div>
+
+#### Operating System and IDE's
+<div align="left">
+ 
+   <img width="45" heigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />  
+   <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse&theme=dark" />
+</div>
+
+#
+
+<div align="left">
+
+
+ 
+ </div>
