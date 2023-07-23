@@ -34,35 +34,4 @@
    <img src="https://skillicons.dev/icons?i=linux,vscode,eclipse&theme=dark" />
 </div>
 
-#
 
-<div align="left">
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.classic.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.plugin.achievements.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.plugin.languages.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.plugin.reactions.svg">
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.plugin.wakatime.svg">
-    </td>
-    <td align="center">
-      <img src="https://github.com/Esthefani-Possamai/Esthefani-Possamai/blob/master/metrics.plugin.isocalendar.svg">
-    </td
-  </tr>
-</table>
-
- 
- </div>
