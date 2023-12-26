@@ -1,5 +1,5 @@
  # Hello! I’m Esthéfani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="computer" height="350" width="350" src="https://cdn.discordapp.com/attachments/762488898597158925/1189239878597218394/computer.png?ex=659d70f2&is=658afbf2&hm=be8d676adac6feb31ec47fc2955cf5eddbbce4f62c8fc1bb2ed7fd393d0f06b2&">
+<img align="right" alt="computer" height="300" width="300" src="https://cdn.discordapp.com/attachments/762488898597158925/1189239878597218394/computer.png?ex=659d70f2&is=658afbf2&hm=be8d676adac6feb31ec47fc2955cf5eddbbce4f62c8fc1bb2ed7fd393d0f06b2&">
 
 ### About me
 🔭 I currently work as a Software Developer. <br/>
@@ -47,7 +47,7 @@
 #### Management
 ![GIT](https://custom-icon-badges.demolab.com/badge/-GIT-F05033?style=for-the-badge)
 ![GITHUB](https://custom-icon-badges.demolab.com/badge/-GITHUB-1B1E23?style=for-the-badge)
-<img align="right" alt="computer" height="200" width="200" src="https://cdn.discordapp.com/attachments/762488898597158925/1189243587867713546/bye-bye.png?ex=659d7466&is=658aff66&hm=a98f82800b264535d980fc5676739c5f2793c20bdd9b9f166b1638558d3309ee&">
+<img align="right" alt="computer" height="150" width="150" src="https://cdn.discordapp.com/attachments/762488898597158925/1189243587867713546/bye-bye.png?ex=659d7466&is=658aff66&hm=a98f82800b264535d980fc5676739c5f2793c20bdd9b9f166b1638558d3309ee&">
 
 ## ✉️ Contact me 
  <a  href = "mailto: esthefani_possamai@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
