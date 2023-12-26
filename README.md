@@ -1,5 +1,5 @@
  # Hello! I’m Esthéfani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img align="right" alt="computer" height="300" width="300" src="https://cdn.discordapp.com/attachments/762488898597158925/1189239878597218394/computer.png?ex=659d70f2&is=658afbf2&hm=be8d676adac6feb31ec47fc2955cf5eddbbce4f62c8fc1bb2ed7fd393d0f06b2&">
+<img align="right" alt="computer" height="350" width="350" src="https://cdn.discordapp.com/attachments/762488898597158925/1189239878597218394/computer.png?ex=659d70f2&is=658afbf2&hm=be8d676adac6feb31ec47fc2955cf5eddbbce4f62c8fc1bb2ed7fd393d0f06b2&">
 
 ### About me
 🔭 I currently work as a Software Developer. <br/>
