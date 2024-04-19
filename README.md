@@ -3,7 +3,7 @@
 
 ### About me
 🔭 I currently work as a Software Developer. <br/>
-🌱 I'm currently learning UI and API REST. <br/>
+🌱 I'm currently learning AngularJS. <br/>
 💻 Computer Science Student at UNESC.
 
 ## ⚡ Technologies 
